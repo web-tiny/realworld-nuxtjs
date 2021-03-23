@@ -1,5 +1,5 @@
 {
-  "app": [
+  "apps": [
     {
       "name": "realworld-nuxtjs",
       "script": "npm",
